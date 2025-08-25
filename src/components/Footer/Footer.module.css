@@ -1,0 +1,14 @@
+.footer {
+  background-color: #edecec; /* Matches your navbar blue */
+  color: black;
+  padding: 40px 30px;
+  text-align: center;
+}
+
+.footerContent {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
